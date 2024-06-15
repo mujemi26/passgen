@@ -83,6 +83,7 @@ body {
 .container button {
   border: 0;
   outline: 0;
+  color: black;
   border-radius: 12px;
   display: flex;
   justify-content: center;
