@@ -181,4 +181,10 @@ button:active {
   button {
     width: 90%;
   }
+  .display input {
+    width: 100%;
+  }
+  .title {
+    font-size: 2.9rem;
+  }
 }
